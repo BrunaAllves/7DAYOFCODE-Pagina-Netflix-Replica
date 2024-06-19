@@ -1,4 +1,3 @@
-﻿# 7DAYOFCODE-Pagina-Netflix-Replica
 # Desafio 7 Days Of Code - Alura
 
 ### Desenvolvimento Front-End
