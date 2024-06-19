@@ -36,4 +36,5 @@ anexo (https://www.figma.com/design/boX9zUOYGNRuadqPh4JwwE/Alura?node-id=0-1&t=P
 * Um parágrafo descritivo do filme;
 * Dois botões: Assistir e Mais informações
 
-![Resultado do Banner](image-1.png)
+![image](https://github.com/BrunaAllves/7DAYOFCODE-Pagina-Netflix-Replica/assets/171729026/374079cc-ada9-4c28-942a-3575dfa5687d)
+
