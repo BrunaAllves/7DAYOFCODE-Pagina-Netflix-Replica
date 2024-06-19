@@ -7,7 +7,7 @@
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 
 
-### Projeto: Replica da página da Netflix
+# Projeto: Replica da página da Netflix
 
 #### O desafio consiste em te desafiar durante 7 dias, desenvolveno projetos na area de front-end, buscando desenvolver habilidades e estimular a prática de códigos atraves de projetos dinâmicos.
 
