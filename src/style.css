@@ -159,21 +159,43 @@ header {
     margin-right: 0.5rem;
 }
 
-/*carrosel de filmes categoria continuar assistindo*/
+/*Trilho sem animação*/
 
-.categoria, h2 {
-    margin: 0;
-    font-size: 15px;
-    margin-left: 40px;
-    padding: 10px;;
+.category {
+    height:200px;
+    margin-left: 50px;
+    margin-right: 50px;
 }
 
-.categoria_Assistindo {
-    display: flex;
+.category_title {
+    color: #e5e5e5e5;
+    font-size: 18px;
+    line-height: 19px;
+    font-weight: 600;
+}
+
+section {
     width: 100%;
-    max-height: 100px;
-    max-height: fit-content;
-    transition: transform 450ms;
-    overflow-x: scroll;
-    
+    position: relative;
+    display: grid;
+    grid-template-columns: repeat(5, auto);
+    margin: 20px 0;
 }
+
+.item {
+    padding: 0 5px;
+    transition: 250ms all;
+}
+
+.item img {
+    max-width: 100%;
+    padding-right: 5 px;
+}
+
+.-animação:hover{
+    color: white;
+}
+
+/* Trilho - Em alta (com animação hover) */
+
+
