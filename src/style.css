@@ -183,17 +183,18 @@ section {
 }
 
 .item {
-    padding: 0 5px;
+    padding: 0 2px;
     transition: 250ms all;
+}
+
+.-animação:hover{
+    margin: 0 40px;
+    transform: scale(1.2);
 }
 
 .item img {
     max-width: 100%;
-    padding-right: 5 px;
-}
-
-.-animação:hover{
-    color: white;
+    padding-right: 5px;
 }
 
 /* Trilho - Em alta (com animação hover) */
